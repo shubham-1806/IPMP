@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+// here initially I find min element which is ans for prob 12
 
 class Solution {
 public:
